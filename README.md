@@ -1,3 +1,5 @@
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Apprentissage-blue) ![GitHub](https://img.shields.io/badge/GitHub-Premier%20Projet-green) ![Security](https://img.shields.io/badge/Securite-Active-red)
+
 # Mon premier lab DevSecOps
 
 ## Qui je suis
